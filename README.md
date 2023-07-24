@@ -1,6 +1,8 @@
 # student-management-system-project
-student management system project using dot net.
-
+🎓📊🖥️📚💻  A cutting-edge student management system project developed using Microsoft .NET technology, allowing schools to efficiently manage and track student data, academic performance, and administrative tasks. 🏫📝👨‍🎓
+#studentmanagementsystem
+#studentmanagement
+#project  #dotnet  #microsoft
 
 ![image](https://github.com/thepravin/student-management-system-project/assets/114281988/a9e31da9-6e39-48c4-821e-f89fc755b87a)
 
