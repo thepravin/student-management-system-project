@@ -1,5 +1,6 @@
 # student-management-system-project
 🎓📊🖥️📚💻  A cutting-edge student management system project developed using Microsoft .NET technology, allowing schools to efficiently manage and track student data, academic performance, and administrative tasks. 🏫📝👨‍🎓
+
 #studentmanagementsystem
 #studentmanagement
 #project  #dotnet  #microsoft
